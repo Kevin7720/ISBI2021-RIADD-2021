@@ -3,4 +3,4 @@ RIADD挑戰是由IEEE ISBI 2021所發起之世界級比賽，其目標為評估�
 
 
 ![image]
-(certificate of merit & speech of ppt/certificate of merit.png)
+([certificate of merit & speech of ppt/certificate of merit.png](https://github.com/Kevin7720/ISBI2021-RIADD-2021/blob/master/certificate%20of%20merit%20%26%20speech%20of%20ppt/certificate%20of%20merit.png))
